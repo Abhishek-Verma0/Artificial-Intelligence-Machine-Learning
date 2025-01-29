@@ -34,6 +34,9 @@ This repository serves as a structured learning resource for anyone looking to m
 
 ## 📢 Contributions
 Feel free to **fork** this repo, add your insights, and create pull requests! 😊
+## Resources 
+https://numpy.org/doc/stable/ 
+https://www.w3schools.com/python/numpy/default.asp
 
 ---
 Happy Coding! ✨
